@@ -112,10 +112,11 @@ ul {
 li {
   list-style: none;
 }
-.score {
+.score-message {
   padding-right: 40px;
-  font-size: 15px;
+  font-size: 20px;
   color: #D13D60;
+  font-weight: 700;
 }
 .quiz-title h2 {
   padding-top: 30px;
